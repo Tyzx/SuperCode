@@ -1,2 +1,2 @@
-# SuperCode
-something are realy funny
+# Musicplayer
+a simple MediaPlayer
